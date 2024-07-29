@@ -1,0 +1,20 @@
+{
+	"name": "timmkuehle/rosetta-lang-support",
+	"description": "General PHP langugae support for the Rosetta library",
+	"type": "library",
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"Rosetta\\LangSupport\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Tim Moritz Kühle"
+		}
+	],
+	"minimum-stability": "stable",
+	"require": {
+		"friendsofphp/php-cs-fixer": "^3.60"
+	}
+}
