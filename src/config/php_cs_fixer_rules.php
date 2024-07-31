@@ -167,6 +167,7 @@ return [
 	'declare_strict_types' => true,
 
 	/** String notation */
+	'explicit_string_variable' => true,
 	'single_quote' => true,
 
 	/** Whitespace */
