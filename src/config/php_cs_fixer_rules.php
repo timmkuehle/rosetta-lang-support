@@ -174,7 +174,8 @@ return [
 	'array_indentation' => true,
 	'blank_line_before_statement' => [
 		'statements' => [
-			'return'
+			'return',
+			'phpdoc'
 		]
 	],
 	'compact_nullable_type_declaration' => true,
