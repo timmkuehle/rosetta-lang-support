@@ -166,6 +166,9 @@ return [
 	/** Strict */
 	'declare_strict_types' => true,
 
+	/** String notation */
+	'single_quote' => true,
+
 	/** Whitespace */
 	'array_indentation' => true,
 	'blank_line_before_statement' => [
